@@ -1,6 +1,11 @@
+<!-- 
+Sources:
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/Ileriayo/markdown-badges
+https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md
+-->
+
 ### Hi there 👋, my name is Gustavo Palminha and I'm a full stack developer mainly interested in front-end development. 😊
-
-
 
 - 🔭 I’m currently working with ...
 
@@ -26,4 +31,7 @@
 
 - 📫 How to reach me: ...
 
-<a href="https://github.com/gustavopalminha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Email" ></a> <a href="https://www.linkedin.com/in/gustavopalminha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Email" ></a> <a href="mailto:gustavopalminha@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" ></a>
+<a href="https://github.com/gustavopalminha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Email" ></a> <a href="https://www.linkedin.com/in/gustavopalminha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Email" ></a> <a href="mailto:gustavopalminha@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" ></a> <a href="https://stackoverflow.com/users/6848615/gustavo-palminha"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" ></a> 
+
+
+
