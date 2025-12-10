@@ -26,8 +26,7 @@ https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badg
 
 - ⚡ Whant to learn ...
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarim" />
-
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 
 - 📫 How to reach me: ...
 
