@@ -4,7 +4,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/Ileriayo/markdown-badges
 https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md
 https://github.com/zasfe/Labs/blob/0a1a96552c3c9d7fd7d7be482c771d3e56ebee0a/docs/Badges4-Profile-README.md
-
 -->
 
 ### Hi there 👋, my name is Gustavo Palminha and I'm a full stack developer mainly interested in front-end development. 😊
@@ -23,11 +22,9 @@ JS Backend: <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-b
 
 Docs: <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" /> <img src="https://img.shields.io/badge/confluence-%23172BF4?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
 
-Devops: <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" alt="Team City" /> <img src="https://img.shields.io/badge/Octopus%20Deploy-2F93E0?style=for-the-badge&logo=Octopus%20Deploy&logoColor=white" alt="Octopus" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+Devops: <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" alt="Team City" /> <img src="https://img.shields.io/badge/Octopus%20Deploy-2F93E0?style=for-the-badge&logo=Octopus%20Deploy&logoColor=white" alt="Octopus" /> <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarCube" /> <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana" />
 
-Infra: <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarCube" /> <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana" />
-
-Clouds: <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+Clouds: <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 
 NoSQL: <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="Dynamo DB" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" /> <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch" />
 
